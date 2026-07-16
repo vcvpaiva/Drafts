@@ -5,5 +5,6 @@
 3. "Brazilian Mathematical Community: a brief history" Valeria de Paiva and Mariana Feiteiro Cavalari.
     Zenodo. https://doi.org/10.5281/zenodo.21129440
 4. "[Formalizing Mathematics and Making Its Women Visible](https://github.com/vcvpaiva/DialecticaCategories/blob/master/FormalizedMathematicsICM.pdf)", Valeria de Paiva, 2026.
-5. Torben's paper, FIL formatted, Strange Loop note, Kolmogorov: later.
+5. "Two Negations?" (with Luiz Carlos Pereira and Elaine Pimentel), preprint based on "[Duas negações ecumênicas?](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AYdo1hMAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=AYdo1hMAAAAJ:YXeC4bxG7-IC)"
+6. Torben's paper, FIL formatted, Strange Loop note, Kolmogorov: later.
    
