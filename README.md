@@ -2,8 +2,9 @@
 
 Some drafts I'm working on at the moment (in no particular order; all need work) :
 
-1. [LinSets](https://github.com/vcvpaiva/Drafts/blob/main/LinSet-2.pdf), draft extending work with Andrea Schalk from 2004.
-2. [Fibrational Semantics for Coexisting Implications](https://github.com/vcvpaiva/DialecticaCategories/blob/master/Reverted_FibrationalSemanticsforILT-1.pdf)",
+1. [LinSets](https://github.com/vcvpaiva/Drafts/blob/main/LinSet-2.pdf), draft extending work with Andrea Schalk,  from 2004. (discussing with Hugo and friends).
+2. [Compiling with Counterexamples](), draft extending old work of Budiu, Galenson and Plotkin, the Compiler Forest, 2013.
+3. [Fibrational Semantics for Coexisting Implications](https://github.com/vcvpaiva/DialecticaCategories/blob/master/Reverted_FibrationalSemanticsforILT-1.pdf)",
    Milly Maietti, Valeria de Paiva and Eike Ritter, original work from 2007. Padova [version](https://www.research.unipd.it/retrieve/e14fb267-69ab-3de1-e053-1705fe0ac030/modelilt.pdf), new version soon.
 4. [Ecumenical Hyperdoctrines](https://github.com/vcvpaiva/Drafts/blob/main/EcumenicalHyperdoctrines-5.pdf)", Valeria de Paiva, 2026. A hyperdoctrine model for Prawitz Ecumenical Logic.
 5. [Brazilian Mathematical Community: a brief history](https://doi.org/10.5281/zenodo.21129440), Valeria de Paiva and Mariana Feiteiro Cavalari. Zenodo. 
