@@ -8,7 +8,7 @@ Some drafts I'm working on at the moment (in no particular order; all need work)
 4. [Polynomials with Predicates: a Dialectica reading](https://github.com/vcvpaiva/Drafts/blob/main/DialPoly-5.pdf), Valeria de Paiva, Sept 2026. Draft of my version of polynomials.
 5. [Ecumenical Hyperdoctrines](https://github.com/vcvpaiva/Drafts/blob/main/EcumenicalHyperdoctrines-5.pdf)", Valeria de Paiva, 2026. A very drafty hyperdoctrine model for Prawitz' Ecumenical Logic.
 6. [Brazilian Mathematical Community: a brief history](https://doi.org/10.5281/zenodo.21129440), Valeria de Paiva and Mariana Feiteiro Cavalari. Zenodo. 
-7. [Formalizing Mathematics and Making Its Women Visible](https://github.com/vcvpaiva/DialecticaCategories/blob/master/FormalizedMathematicsICM.pdf)", Valeria de Paiva, 2026. appeared in the CWM Newsletter(?)
+7. [Formalizing Mathematics and Making Its Women Visible](https://github.com/vcvpaiva/DialecticaCategories/blob/master/FormalizedMathematicsICM.pdf)", Valeria de Paiva, 2026. Appeared in the [CWM Newsletter 15, Aug 2026](https://www.mathunion.org/fileadmin/documents/2026-08/issue15.pdf).
 8. "Two Negations?" (with Luiz Carlos Pereira and Elaine Pimentel), preprint based on "[Duas negações ecumênicas?](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AYdo1hMAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=AYdo1hMAAAAJ:YXeC4bxG7-IC)"
 9. Dialectica for Constructible Falsity, in the book `Andréa Loparić on Semantics for  Non-Classical Logics: Essays in Honour of Andréa Loparić', (eds. Cezar Mortari; Abilio Rodrigues; Gisele Secco; Elaine Pimentel; Itala D'Ottaviano), with Jose Siqueira, 2025. [Corrected preprint](https://github.com/vcvpaiva/Drafts/blob/main/DialStrongNegation-1.pdf).
 
