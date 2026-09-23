@@ -2,7 +2,7 @@
 
 Some drafts I'm working on at the moment (in no particular order; all need work) :
 
-1. [Functional Lineale-valued Sets](https://github.com/vcvpaiva/Drafts/blob/main/LinSet-2.pdf), draft extending work with Andrea Schalk, "Poset-valued sets or How to build models for linear logics", TCS 315, 2004. (discussing with Hugo, Jose, and friends). [blog post](https://logic-forall.blogspot.com/2026/09/what-is-actually-linear-here.html)
+1. [Functional Lineale-valued Sets](https://github.com/vcvpaiva/Drafts/blob/main/LinSet-2.pdf), draft extending work with Andrea Schalk, [Poset-valued sets or How to build models for linear logics](https://www.cs.man.ac.uk/~schalk/publ/pvsets.pdf), TCS 315, 2004. (discussing with Hugo, Jose, and friends). [blog post](https://logic-forall.blogspot.com/2026/09/what-is-actually-linear-here.html)
 2. [Compiling with Counterexamples](https://github.com/vcvpaiva/Drafts/blob/main/Compilers2026.pdf), Valeria de Paiva, 2026. draft extending work of Budiu, Galenson and Plotkin, "The Compiler Forest", 2013.
 3. [Dialectica Counter Monads](https://github.com/vcvpaiva/Drafts/blob/main/CountersMonads-10.pdf), Valeria de Paiva, 2026. very drafty draft, preparing for Dialectica Landscape.
 4. [Bidirectional Transformations with Predicates](https://github.com/vcvpaiva/Drafts/blob/main/Lenses2026-4.pdf), Valeria de Paiva, Sept. 2026. Draft of my version of lenses.
