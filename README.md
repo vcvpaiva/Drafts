@@ -6,7 +6,7 @@ Some drafts I'm working on at the moment (in no particular order; all need work)
 2. [Compiling with Counterexamples](https://github.com/vcvpaiva/Drafts/blob/main/Compilers2026.pdf), Valeria de Paiva, 2026. draft extending work of Budiu, Galenson and Plotkin, "The Compiler Forest", 2013.
 3. [Dialectica Counter Monads](https://github.com/vcvpaiva/Drafts/blob/main/CountersMonads-10.pdf), Valeria de Paiva, 2026. very drafty draft, preparing for Dialectica Landscape.
 4. [Bidirectional Transformations with Predicates](https://github.com/vcvpaiva/Drafts/blob/main/Lenses2026-4.pdf), Valeria de Paiva, Sept. 2026. Draft of my version of lenses.
-5. [Polynomials with Predicates: a Dialectica reading](https://github.com/vcvpaiva/Drafts/blob/main/DialPoly-5.pdf), Valeria de Paiva, Sept 2026. Draft of my version of polynomials.
+5. [Polynomials with Predicates: a Dialectica reading](https://github.com/vcvpaiva/Drafts/blob/main/DialPoly-8.pdf), Valeria de Paiva, Sept 2026. Draft of my version of polynomials.
 6. [Ecumenical Hyperdoctrines](https://github.com/vcvpaiva/Drafts/blob/main/EcumenicalHyperdoctrines-5.pdf)", Valeria de Paiva, 2026. A very drafty hyperdoctrine model for Prawitz' Ecumenical Logic.
 7. [Brazilian Mathematical Community: a brief history](https://doi.org/10.5281/zenodo.21129440), Valeria de Paiva and Mariana Feiteiro Cavalari. Zenodo. 
 8. [Formalizing Mathematics and Making Its Women Visible](https://github.com/vcvpaiva/DialecticaCategories/blob/master/FormalizedMathematicsICM.pdf)", Valeria de Paiva, 2026. Appeared in the [CWM Newsletter 15, Aug 2026](https://www.mathunion.org/fileadmin/documents/2026-08/issue15.pdf).
