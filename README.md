@@ -17,5 +17,5 @@ Some drafts I'm working on at the moment (in no particular order; all need work)
  
 Others: 
 * [Fibrational Semantics for Coexisting Implications](https://github.com/vcvpaiva/DialecticaCategories/blob/master/Reverted_FibrationalSemanticsforILT-1.pdf)",   Milly Maietti, Valeria de Paiva and Eike Ritter, original work from 2007. Padova [version](https://www.research.unipd.it/retrieve/e14fb267-69ab-3de1-e053-1705fe0ac030/modelilt.pdf), new version soon.
-* Lab note [Dialectica categories without subobjects](), 2026, old news, just for the record.
+* Lab note [Dialectica categories without subobjects](https://github.com/vcvpaiva/Drafts/blob/main/DialWithoutSubobjects.pdf), 2026, old stuff, just for the record.
 * Torben's paper, FIL formatted, Strange Loop note, Small Dialectica Note, Kolmogorov: later.
