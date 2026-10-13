@@ -21,4 +21,5 @@ Others:
 * [Variations on Linear PCF](https://github.com/vcvpaiva/Drafts/blob/main/linearPCF.pdf), old preprint with Eike Ritter that 'disappeared' together with my Bham webpage.
 * [On Linear Primitive Recursion](https://github.com/vcvpaiva/Drafts/blob/main/lpre.pdf), old preprint with Milly Maietti and Eike Ritter, circa 2000.
 * [Normalization Bounds for Rudimentary Linear Lambda calculus](https://github.com/vcvpaiva/Drafts/blob/main/MaiettiICC2002.pdf), Milly Maietti, Eike Ritter and de Paiva, ICC 2002.
+* [A Dialectica Model of State](), with Marcelo Correa and Hermann Hauesler, 1996.
 * Torben's paper, FIL formatted, Strange Loop note, Small Dialectica Note, Kolmogorov: later.
