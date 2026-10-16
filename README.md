@@ -17,7 +17,8 @@ Some drafts I'm working on at the moment (in no particular order; all need work)
  
 Others: 
 * [Fibrational Semantics for Coexisting Implications](https://github.com/vcvpaiva/DialecticaCategories/blob/master/Reverted_FibrationalSemanticsforILT-1.pdf)",   Milly Maietti, Valeria de Paiva and Eike Ritter, original work from 2007. Padova [version](https://www.research.unipd.it/retrieve/e14fb267-69ab-3de1-e053-1705fe0ac030/modelilt.pdf), new version soon.
-* Lab note [Dialectica categories without subobjects](https://github.com/vcvpaiva/Drafts/blob/main/DialWithoutSubobjects.pdf), 2026, old stuff, just for the record.
+* Lab notes:
+  [Dialectica categories without subobjects](https://github.com/vcvpaiva/Drafts/blob/main/DialWithoutSubobjects2.pdf), 2026, old stuff, just for the record.
 * [Variations on Linear PCF](https://github.com/vcvpaiva/Drafts/blob/main/linearPCF.pdf), old preprint with Eike Ritter that 'disappeared' together with my Bham webpage.
 * [On Linear Primitive Recursion](https://github.com/vcvpaiva/Drafts/blob/main/lpre.pdf), old preprint with Milly Maietti and Eike Ritter, circa 2000.
 * [Normalization Bounds for Rudimentary Linear Lambda calculus](https://github.com/vcvpaiva/Drafts/blob/main/MaiettiICC2002.pdf), Milly Maietti, Eike Ritter and de Paiva, ICC 2002.
