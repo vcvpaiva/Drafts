@@ -8,7 +8,7 @@ Some drafts I'm working on at the moment (in no particular order; all need work)
 4. MRC 2022 work
    * [Bidirectional Transformations with Predicates](https://github.com/vcvpaiva/Drafts/blob/main/Lenses2026-7.pdf), Valeria de Paiva, Sept. 2026. Draft of my version of dialectica lenses. 
    * [Polynomials with Predicates: a Dialectica reading](https://github.com/vcvpaiva/Drafts/blob/main/DialPoly-9.pdf), Valeria de Paiva, Sept 2026. Draft of my version of predicated polynomials. [blog post](https://logic-forall.blogspot.com/2026/09/polynomials-with-predicate-dialectica.html)
-   * [Plays and Payoffs in Dialectica Games](). Very drafty version of dialectica games.
+   * [Plays and Payoffs in Dialectica Games](https://github.com/vcvpaiva/Drafts/blob/main/GamesWithPayoffs-2.pdf). Oct 2026. Very drafty draft of dialectica games.
 5. Edinburgh BRICS Mathematics project, 2025
    * [Brazilian Mathematical Community: a brief history](https://doi.org/10.5281/zenodo.21129440), Valeria de Paiva and Mariana Feiteiro Cavalari. preprint at Zenodo. abstract, presented at [7th BRICS Conference in Mathematics](https://sbm.org.br/brics/wp-content/uploads/sites/43/2026/08/Brics_Abstracts_book-1-2.pdf), 2026, page 72. A deliverable on Michael Barany and Valeria de Paiva's ICMS project [BRICS Mathematics: Histories and agendas of mathematics in the context of ‘large emerging economies’](https://sigma.mathsworlds.org/activities/brics-icms/), 2025.
    * [Mapping Category Theory: Growth, Community Structure, and Knowledge Flow](), Eugenio Llanos, Julián Angarita, Wilmer Leal, and  Valeria de Paiva. Extended abstract, submitted to ACT 2026. First version presented at BRICS project above, 2025.
