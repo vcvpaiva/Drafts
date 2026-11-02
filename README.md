@@ -24,6 +24,7 @@ Others:
 * Lab notes:
   * [Dialectica categories without subobjects](https://github.com/vcvpaiva/Drafts/blob/main/DialWithoutSubobjects2.pdf), 2026, just for the record: can do Dial both with subobjects and with maps into L.
   * [Dialectica Constructions over Monoidal Bases](https://github.com/vcvpaiva/Drafts/blob/main/A_dialectica_model_of_state-1.pdf), 2026, for the record: can do Dial over a smcc with products, just like can do Gir with the same assumptions, but the intended example does not work. [blog post on lab notes](https://logic-forall.blogspot.com/2026/10/lab-notes-what-and-why.html)
+  * [Dialectica over a Topos]() Nov 2026, very much what you expect: Hyland's trick on Sets does not work anymore.
 * Preprints that disappeared from the web:
   * [Variations on Linear PCF](https://github.com/vcvpaiva/Drafts/blob/main/linearPCF.pdf), old preprint with Eike Ritter that 'disappeared' together with my Bham webpage.
   * [On Linear Primitive Recursion](https://github.com/vcvpaiva/Drafts/blob/main/lpre.pdf), old preprint with Milly Maietti and Eike Ritter, circa 2000.
